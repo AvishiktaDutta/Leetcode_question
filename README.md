@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
 |  |
 | ------- |
