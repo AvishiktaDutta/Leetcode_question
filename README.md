@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
