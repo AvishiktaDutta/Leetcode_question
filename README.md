@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
