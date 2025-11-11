@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
