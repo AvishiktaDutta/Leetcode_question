@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
