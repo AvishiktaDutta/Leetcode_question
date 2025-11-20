@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
