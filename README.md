@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
