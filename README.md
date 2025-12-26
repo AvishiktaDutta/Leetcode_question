@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
