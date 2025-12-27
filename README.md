@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
