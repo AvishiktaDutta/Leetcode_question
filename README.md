@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
