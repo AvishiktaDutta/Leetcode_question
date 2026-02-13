@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
