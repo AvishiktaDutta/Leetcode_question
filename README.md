@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0238-product-of-array-except-self) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Recursion
 |  |
 | ------- |
