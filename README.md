@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 ## String Matching
