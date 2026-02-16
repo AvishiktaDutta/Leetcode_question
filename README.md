@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
