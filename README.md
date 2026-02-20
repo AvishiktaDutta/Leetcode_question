@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1078-remove-outermost-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
