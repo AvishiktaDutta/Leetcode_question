@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1486-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2032-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
