@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
