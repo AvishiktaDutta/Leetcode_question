@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0792-binary-search) |
+| [1550-three-consecutive-odds](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1550-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
