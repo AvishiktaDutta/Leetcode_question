@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
