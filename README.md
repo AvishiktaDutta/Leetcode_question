@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
 | [1550-three-consecutive-odds](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1550-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/2607-make-k-subarray-sums-equal) |
 ## Divide and Conquer
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -324,4 +327,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
