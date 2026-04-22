@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/1486-xor-operation-in-an-array) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
