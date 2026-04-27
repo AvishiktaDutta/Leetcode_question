@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
