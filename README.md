@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0219-contains-duplicate-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/AvishiktaDutta/Leetcode_question/tree/master/0678-valid-parenthesis-string) |
